@@ -1,0 +1,10 @@
+import { __assign, __makeTemplateObject } from "tslib";
+import React from 'react';
+import styled from 'styled-components';
+var StyledOrganisation = styled.i(templateObject_1 || (templateObject_1 = __makeTemplateObject(["\n  &{background:linear-gradient(to bottom,currentColor 5px,transparent 0)no-repeat center 2px/12px 2px,linear-gradient(to bottom,currentColor 5px,transparent 0)no-repeat center 6px/12px 2px,linear-gradient(to bottom,currentColor 5px,transparent 0)no-repeat center 10px/12px 2px,linear-gradient(to bottom,currentColor 18px,transparent 0)no-repeat center/2px 18px;box-sizing:border-box;position:relative;display:block;transform:scale(var(--ggs,1));width:12px;height:18px;border:2px solid}&::after,&::before{content:\"\";display:block;box-sizing:border-box;position:absolute}&::before{background:currentColor;right:-8px;top:6px;box-shadow:0 4px 0, -4px 4px 0, -4px 0 0;width:2px;height:2px}&::after{width:12px;height:14px;border:2px solid;left:8px;bottom:-2px}\n"], ["\n  &{background:linear-gradient(to bottom,currentColor 5px,transparent 0)no-repeat center 2px/12px 2px,linear-gradient(to bottom,currentColor 5px,transparent 0)no-repeat center 6px/12px 2px,linear-gradient(to bottom,currentColor 5px,transparent 0)no-repeat center 10px/12px 2px,linear-gradient(to bottom,currentColor 18px,transparent 0)no-repeat center/2px 18px;box-sizing:border-box;position:relative;display:block;transform:scale(var(--ggs,1));width:12px;height:18px;border:2px solid}&::after,&::before{content:\"\";display:block;box-sizing:border-box;position:absolute}&::before{background:currentColor;right:-8px;top:6px;box-shadow:0 4px 0, -4px 4px 0, -4px 0 0;width:2px;height:2px}&::after{width:12px;height:14px;border:2px solid;left:8px;bottom:-2px}\n"])));
+export var Organisation = React.forwardRef(function (props, ref) {
+    return (React.createElement(React.Fragment, null,
+        React.createElement(StyledOrganisation, __assign({}, props, { ref: ref }))));
+});
+var templateObject_1;
+//# sourceMappingURL=Organisation.js.map

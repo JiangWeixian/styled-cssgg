@@ -1,0 +1,10 @@
+import { __assign, __makeTemplateObject } from "tslib";
+import React from 'react';
+import styled from 'styled-components';
+var StyledCast = styled.i(templateObject_1 || (templateObject_1 = __makeTemplateObject(["\n  &{background:linear-gradient( to left,currentColor 5px,transparent 0)no-repeat bottom right/6px 2px, linear-gradient( to left,currentColor 5px,transparent 0)no-repeat top left/2px 2px;box-sizing:border-box;position:relative;display:block;transform:scale(var(--ggs,1));width:20px;height:16px;border-top:2px solid;border-right:2px solid;border-radius:2px;border-left:0}&::after,&::before{content:\"\";display:block;box-sizing:border-box;position:absolute;width:20px;height:20px;border:6px double;border-top-color:transparent;border-bottom-color:transparent;border-left-color:transparent;border-radius:50%;transform:rotate(-45deg);bottom:-10px;left:-10px}&::after{width:4px;height:4px;border:2px solid;border-top-color:transparent;border-bottom-color:transparent;border-left-color:transparent;bottom:-2px;left:-2px}\n"], ["\n  &{background:linear-gradient( to left,currentColor 5px,transparent 0)no-repeat bottom right/6px 2px, linear-gradient( to left,currentColor 5px,transparent 0)no-repeat top left/2px 2px;box-sizing:border-box;position:relative;display:block;transform:scale(var(--ggs,1));width:20px;height:16px;border-top:2px solid;border-right:2px solid;border-radius:2px;border-left:0}&::after,&::before{content:\"\";display:block;box-sizing:border-box;position:absolute;width:20px;height:20px;border:6px double;border-top-color:transparent;border-bottom-color:transparent;border-left-color:transparent;border-radius:50%;transform:rotate(-45deg);bottom:-10px;left:-10px}&::after{width:4px;height:4px;border:2px solid;border-top-color:transparent;border-bottom-color:transparent;border-left-color:transparent;bottom:-2px;left:-2px}\n"])));
+export var Cast = React.forwardRef(function (props, ref) {
+    return (React.createElement(React.Fragment, null,
+        React.createElement(StyledCast, __assign({}, props, { ref: ref }))));
+});
+var templateObject_1;
+//# sourceMappingURL=Cast.js.map
