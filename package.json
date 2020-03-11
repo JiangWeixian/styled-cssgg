@@ -38,7 +38,7 @@
     "typescript": "3.7.2"
   },
   "scripts": {
-    "prebuild": "node scripts/pre-build.js",
+    "prebuild": "node scripts/pre-build.js && npm run prettier",
     "build": "tsc",
     "dev": "rollup -c -w",
     "test": "ts-node test/test.ts",
