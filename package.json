@@ -45,7 +45,8 @@
     "pretest": "npm run build",
     "update": "npm update && npm update --save-dev",
     "check": "npm outdated && npm outdated --save-dev",
-    "prepublishOnly": "npm run build && np --no-cleanup --yolo --no-publish --any-branch"
+    "prepublishOnly": "npm run build && np --no-cleanup --yolo --no-publish --any-branch",
+    "prettier": "prettier --config .prettierrc --write 'src/**/*'"
   },
   "husky": {
     "hooks": {

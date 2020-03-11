@@ -41,6 +41,9 @@ export default [
         entries: [{ find: '@/', replacement: './src/' }],
       }),
     ],
-    output: [{ file: pkg.main, format: 'cjs' }, { file: pkg.module, format: 'es' }],
+    output: [
+      { file: pkg.main, format: 'cjs' },
+      { file: pkg.module, format: 'es' },
+    ],
   },
 ]

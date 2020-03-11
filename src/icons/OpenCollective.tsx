@@ -1,11 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
 
-const StyledOpenCollective = styled.i`
-  
-` 
+const StyledOpenCollective = styled.i``
 
-export const OpenCollective = React.forwardRef<HTMLElement, React.DetailedHTMLProps<React.HtmlHTMLAttributes<HTMLElement>, HTMLElement>>((props, ref) => {
+export const OpenCollective = React.forwardRef<
+  HTMLElement,
+  React.DetailedHTMLProps<React.HtmlHTMLAttributes<HTMLElement>, HTMLElement>
+>((props, ref) => {
   return (
     <>
       <StyledOpenCollective {...props} ref={ref} />

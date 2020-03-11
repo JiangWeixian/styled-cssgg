@@ -27,3 +27,5 @@ Jenkinsfile
 *.watchmanconfig
 *.flowconfig
 LICENSE
+lib/
+*.tpl
