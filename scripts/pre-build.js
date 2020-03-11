@@ -16,7 +16,6 @@ Object.keys(icons)
       name,
       css
     })
-    console.log(css)
     fs.outputFileSync(path.resolve(__dirname, `../src/icons/${name}.tsx`), result)
   })
 
