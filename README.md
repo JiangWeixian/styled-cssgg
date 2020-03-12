@@ -1,6 +1,6 @@
-> already move to https://github.com/JiangWeixian/css.gg?organization=JiangWeixian&organization=JiangWeixian, and open a pr for [css.gg](https://github.com/astrit/css.gg)
+> already move to [forked cssgg](https://github.com/JiangWeixian/css.gg?organization=JiangWeixian&organization=JiangWeixian), and open a pr for [css.gg](https://github.com/astrit/css.gg)
 
-> 项目已经迁移到https://github.com/JiangWeixian/css.gg?organization=JiangWeixian&organization=JiangWeixian，并且给原项目[css.gg](https://github.com/astrit/css.gg)提交了pr
+> 项目已经迁移到[forked cssgg](https://github.com/JiangWeixian/css.gg?organization=JiangWeixian&organization=JiangWeixian)，并且给原项目[css.gg](https://github.com/astrit/css.gg)提交了pr
 
 # styled-cssgg
 > styled components for [css.gg](https://github.com/astrit/css.gg)
